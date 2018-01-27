@@ -1,0 +1,11 @@
+# needed by the model
+Keras==2.1.3
+tensorflow==1.4.1
+h5py==2.7.1
+
+# needed by the endpoint functions
+numpy==1.13.1
+scikit-learn==0.19.1
+matplotlib==2.1.2
+seaborn==0.8.1
+azure-storage==0.36.0
